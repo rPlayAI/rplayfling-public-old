@@ -41,3 +41,8 @@ the car moves (sound keeps playing).
 Please [open an issue](https://github.com/rPlayAI/rplayfling-public/issues/new/choose) with your iPhone model,
 iOS version, rPlayFling version, and the car or head unit. A screenshot or a photo of the car screen
 helps a lot.
+
+## Feedback
+
+Ideas and feature requests are welcome too — use the *Feature request* form under
+[Issues](https://github.com/rPlayAI/rplayfling-public/issues/new/choose).
